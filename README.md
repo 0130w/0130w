@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Operating System, Computer organization,..**
 
-- 📝 I regularly write articles on [www.xiangchibingtangyuan.com](www.xiangchibingtangyuan.com)
+- 📝 I regularly write articles on www.xiangchibingtangyuan.com
 
 - 📫 How to reach me **lovenvibest@gmail.com**
 
