@@ -47,3 +47,7 @@
 <div style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0130w&" alt="0130w's GitHub streak stats">
 </div>
+
+---
+
+![Snake animation](https://github.com/0130w/0130w/blob/output/github-contribution-grid-snake.svg)
