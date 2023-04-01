@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm 0130 :)</h1>
-<h3 align="center">A student majoring in software engineer</h3>
+![image](./header.png)
+
+---
+
+<h3 align="center">I'm a student majoring in software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0130w&label=Profile%20views&color=0e75b6&style=flat" alt="0130w" /> </p>
 
