@@ -38,6 +38,12 @@
 
 ---
 
+## News!
+
+*2023.4.24: Finish CS106L*
+
+---
+
 ## My github stats
 
 <div style="display: flex; margin-bottom: 20px;">
